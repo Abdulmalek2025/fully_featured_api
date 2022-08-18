@@ -1,0 +1,6 @@
+whats is an automated test:
+# a piece of code which makes sure that another piece of code is working correctly under a certain codition
+why should you test?
+-higher app quality
+-easier refactoring
+-easier version upgrade
